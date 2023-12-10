@@ -11,6 +11,6 @@ setup(
 
 
         
-        'text-unidecode==1.0',
+        'text-unidecode==1.3',
     ],
 )
